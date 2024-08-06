@@ -1,9 +1,9 @@
 <h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
-<div class="publications">
+<div class="projects">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.projects.main %}
 
 <li>
 <div class="pub-row">
@@ -21,8 +21,8 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% if link.Video %} 
+      <a href="{{ link.Video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
