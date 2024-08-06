@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am a year-2 undergraduate student at The University of Hong Kong. I am familiar with Python, C++ and C, and I am learning Java now.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2024]** Made a good simulation optimization projects during Globex!
+- **[Apr. 2024]** My 1340 group together made a card game called Pyramid!
+- **[Nov. 2023]** My 1330 group together made a little maze game!
 
 {% include_relative _includes/publications.md %}
 
