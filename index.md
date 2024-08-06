@@ -14,4 +14,3 @@ I am a year-2 undergraduate student at The University of Hong Kong. I am familia
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
