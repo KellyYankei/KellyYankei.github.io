@@ -1,0 +1,22 @@
+main:
+
+  - title: Maze game
+    authors: Chan Chun Pong, Xu Xinpeng, Zhen Qi
+    code: https://github.com/MrGiovanni/ContinualLearning
+    Video: https://youtu.be/sUO-DCETk_0
+    image: ./assets/img/maze.png
+    notes: From ENGG1330(2023-2024 sem1 in HKU)
+
+  - title: Card game - Pyramid
+    authors: Sun Xueli, Li Wenbo, Tu Jingtian, Wang Zixuan, Zhen Qi
+    code: https://github.com/KellyYankei/1340-2113-gp16
+    Video: https://www.youtube.com/watch?v=tyjc-rJs1SA
+    image: ./assets/img/pyramid.png
+    notes: From ENGG1340(2023-2024 sem2 in HKU)
+
+  - title: Simulation project
+    authors: Sun Xueli, Li Haoxin, Yang Ruizhen, Zhen Qi
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/shirley430316/simulation-proj1-group18-globex2024
+    image: ./assets/img/simulation.png
+    notes: From Globex(2024 Summer school in PKU)
