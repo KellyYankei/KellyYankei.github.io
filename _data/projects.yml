@@ -16,7 +16,6 @@ main:
 
   - title: Simulation project
     authors: Sun Xueli, Li Haoxin, Yang Ruizhen, Zhen Qi
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/shirley430316/simulation-proj1-group18-globex2024
     image: ./assets/img/simulation.png
     notes: From Globex(2024 Summer school in PKU)
