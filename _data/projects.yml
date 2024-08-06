@@ -2,7 +2,7 @@ main:
 
   - title: Maze game
     authors: Chan Chun Pong, Xu Xinpeng, Zhen Qi
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/KellyYankei/ENGG1330-maze
     Video: https://youtu.be/sUO-DCETk_0
     image: ./assets/img/maze.png
     notes: From ENGG1330(2023-2024 sem1 in HKU)
