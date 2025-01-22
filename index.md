@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a year-2 undergraduate student at The University of Hong Kong. I am familiar with Python, C++ and C, and I am learning Java now.
+I am a year-2 undergraduate student at The University of Hong Kong. I am learning Quantum information and Algorithm analysis now.
 
 ## News
 
